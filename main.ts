@@ -1,1 +1,1 @@
-tiles.setTilemap(tilemap`level1`)
+tiles.setTilemap(tilemap`map2`)
